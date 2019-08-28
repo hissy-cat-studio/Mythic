@@ -9,9 +9,9 @@ Components
 48 Research Team Member Cards
 5 Dangerous Location Cards
 5 Major Catastrophe Cards
-161 Evidence Cards
+161 Evidence Cards [105 only single evidence]
 1 Skills Reference Card
-1 encounter / Survivor Dice
+1 encounter / Survivor Dice [removed for tags on cards]
 16 Meeples
 Card Types
 Explorers
@@ -20,12 +20,12 @@ Locations
 Major Catastrophe
 Evidence
 Traits /  Skills
-	Survivor
-	Bush Pilot
+	Survivor - does not go MIA when a bigfoot evidence card or two bigfoot tags are revealed, instead lose all evidence to the location and gain a eyewitness +2 static points
+	Bush Pilot - instead of exploring you may reveal the Bush Pilot redshirt card and move to another location's open meeple spot (even if the location has already been explored this turn)
 	Medic
-	Theif
+	Thief - instead of exploring you may reveal the Thief redshirt card and select a player on your location that has found evidence there. That player shuffles their evidence cards from this explore facedown and you take one at random.
 	Search and Rescue
-	Trader
+	Trader - stay back action that has you draw an evidence card from the group pile
 	Scavenger
 	Recon
 	Intuition
@@ -35,9 +35,25 @@ Traits /  Skills
 Setup
 
 Game Phases
+Planning Phase- during this phase players in turn order assign one of their meeples at a time to either; intend to explore a location by placing their meeple in the 1,2,3 spot of a location card
+or placing their meeple on one of their facedown redshirts to show that the team member is staying back to remove them from harms way or to perform an action.
+
+Explore Phase- during this phase players in turn order select a location where they have a meeple and resolve all of the searches in order of meeples.
+To explore players may reveal up to three pieces of evidence from their location's evidence pile. If the player ever has two bigfoot tags amongst their searched evidence cards then a random redshirt of theirs goes MIA.
+If any player reveals a bigfoot symbol on an evidence card it is a total party kill and everyone on the location becomes MIA and no evidence is collected (survivors collect a eyewitness +2 static points however).
+If a player goes MIA place the evidence that redshirt found faceup back on to the location (to be shuffled back in during the clean up phase) and randomly assign MIA status to a redshirt that did not stay back.
+Once all locations with meeples have been resolved, perform any remaining actions of redshirts that stayed back during the planning phase.
+
+Clean Up- during this phase make sure that all evidence piles have 11 cards in them by adding random evidence from the group pile until there is the correct amount.
+In reverse turn order players draw back a number of redshirts equal to the number that went MIA this turn during the explore phase.
+At the end of this phase players may lay claim if they have enough evidence to do so, if someone does there is one more full round for all other players (See Lay Claim section for more information)
+
 
 Example Setup
 
 How to Play
 
+ 
+
 End of Game
+  Lay Claim
