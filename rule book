@@ -1,59 +1,90 @@
 Mythic
 
 Game Overview
-	Mythic is a worker placement, double push your luck, set collection game set in the 1920’s.
-	In Mythic you play as a member of the Society of Explorers and Xploration, searching dangerous locations with your team of researchers to find clues that allow you to make a claim as to the existence of Mythic creatures before other players make their claims.
+	Mythic is a worker placement, double push y/our luck, set collection game set in the 1920’s.
+	In Mythic you play as a member of the Society of Explorers and Xploration, searching dangerous locations with your team of researchers to find clues that allow you to make a claim as to the existence of Bigfoot before other players make their claims.
 
 Components
 21 Unique Explorer Cards
-48 Research Team Member Cards
-5 Dangerous Location Cards
-5 Major Catastrophe Cards
-161 Evidence Cards [105 only single evidence]
-1 Skills Reference Card
-1 encounter / Survivor Dice [removed for tags on cards]
-16 Meeples
-Card Types
-Explorers
-Research Team Members
-Locations
-Major Catastrophe
-Evidence
-Traits /  Skills
-	Survivor - does not go MIA when a bigfoot evidence card or two bigfoot tags are revealed, instead lose all evidence to the location and gain a eyewitness +2 static points
-	Bush Pilot - instead of exploring you may reveal the Bush Pilot redshirt card and move to another location's open meeple spot (even if the location has already been explored this turn)
-	Medic
-	Thief - instead of exploring you may reveal the Thief redshirt card and select a player on your location that has found evidence there. That player shuffles their evidence cards from this explore facedown and you take one at random.
-	Search and Rescue
-	Trader - stay back action that has you draw an evidence card from the group pile
-	Scavenger
-	Recon
-	Intuition
-	Research Expert
-	
-	
+35 Research Team Member Cards
+5 Location Boards
+125-150 Evidence Cards
+10 Bigfoot [TPK] Cards
+5 Skills Reference Card
+4 Explorer Meeples
+
 Setup
+1) Place the location boards at the center of the table
+2) Each player recieves an Explorer Meeple and a unique Explorer Card
+3) Deal each player their corresponding color's Scavenger, Recon and Research Expert research team member cards. 
+Alternatively, for advanced play each player selects the three research team member cards of their color that they want for their team and return the rest to the box.
+4) Locate and separate out each of the seeded cards 
+Each seeded deck is made up of nine cards related to the locations evidence type and the following cards;
+3 twos, 2 threes, 1 two with a sighting, 1 golden evidence and 2 TPKS
+5) Place all the seeded decks on their corresponding locations and add 16-21 evidence cards into each locations evidence pile and shuffle them all together
+6) Begin play at the planning phase with the player who last read a scientific study.
+
+Gameplay Flow
+1) Assigning research team members to either a location or to stay at camp.
+2) Use three opportunities to either explore to gain evidence -or- activate traits
+3) Return to camp with all retrieved evidence -or- research team member goes MIA
+4) Make claim based on evidence in different categories
+5) Repeat process from step 1 above
 
 Game Phases
-Planning Phase- during this phase players in turn order assign one of their meeples at a time to either; intend to explore a location by placing their meeple in the 1,2,3 spot of a location card
-or placing their meeple on one of their facedown redshirts to show that the team member is staying back to remove them from harms way or to perform an action.
+Planning Phase- during this phase players in turn order assign one of their research team member cards at a time to a location or to stay home until all members are assigned. 
+By assigning their research team member card to a location board in the 1,2,3 or 4 spot the player is showing an intent to explore the location
+By keeping their research member card back the player is showing they intend to remove that member from harms way and to perform an opportunity.
 
-Explore Phase- during this phase players in turn order select a location where they have a meeple and resolve all of the searches in order of meeples.
-To explore players may reveal up to three pieces of evidence from their location's evidence pile. If the player ever has two bigfoot tags amongst their searched evidence cards then a random redshirt of theirs goes MIA.
-If any player reveals a bigfoot symbol on an evidence card it is a total party kill and everyone on the location becomes MIA and no evidence is collected (survivors collect a eyewitness +2 static points however).
-If a player goes MIA place the evidence that redshirt found faceup back on to the location (to be shuffled back in during the clean up phase) and randomly assign MIA status to a redshirt that did not stay back.
-Once all locations with meeples have been resolved, perform any remaining actions of redshirts that stayed back during the planning phase.
+Explore Phase- during this phase players in turn order select a location where they have at least one research team member card and then players resolve all of the opportunities of each research team member in the order of their location spots.
+Players have three opportunities alloted to each team member on the location, they may either spend a number of opportunities to activate the given research team member's trait and/or may explore the top card of the evidence deck once per opportunity spent.
+To explore players may reveal the top card of the evidence from their location's evidence pile and place it on top of their research team member. 
+If the player ever has two bigfoot tags amongst their searched evidence cards then their searching research team member goes MIA. To go MIA return your research member card to your play area and flip it face down.
+If a research team member goes MIA place the evidence they found faceup back onto the location in the lost evidence pile.
+If any player reveals an evidence card with a large bigfoot symbol this represents a a total party kill and everyone on the location becomes MIA and no evidence is collected. [Survivors collect retains one evidence and recieves an eyewitness evidence card].
+Once all research team members have used all of their opportunities at the loaction, if your research team member is still alive then return your research team member card and any evidence they discovered to your play area.
+Once all location boards with research team members on them have been resolved move on to the next phase.
 
-Clean Up- during this phase make sure that all evidence piles have 11 cards in them by adding random evidence from the group pile until there is the correct amount.
-In reverse turn order players draw back a number of redshirts equal to the number that went MIA this turn during the explore phase.
-At the end of this phase players may lay claim if they have enough evidence to do so, if someone does there is one more full round for all other players (See Lay Claim section for more information)
+Lay Claim- Players may Lay Claim if they have enough evidence to do so, if someone does there is one more full round for all other players (see the Laying Claim section for more information)
+If no players Lay Claim then repeat the game phases starting with the planning phase, starting with the next player clockwise from this round's starting player.
 
+Card Types
+Explorers [dissect the parts of a card]
+ Name
+ Survivor and Search and Rescue
+ Two fields of study that boost corresponding evidence points at game's end.
+Research Team Members
+ Name
+ Trait
+ Research Team color
+Evidence
+ Point value and evidence type
+ Bigfoot tag
+ Sighting tag
+ Seeded tag
 
-Example Setup
-
+Traits
+  Traits are either enacted by staying home and meeting a scenario or cost a certain amount of opportunity to use. Each research team member is allotted three opportunities per Explore Phase.
+	Survivor - Passive: does not go MIA when a bigfoot evidence card or two bigfoot tags are revealed, instead lose all but one evidence discovered and gain an eyewitness evidence card.
+	Search and Rescue - Stay Home: if another of your research team members would go MIA instead their evidence goes to that location's lost evidence pile and that research team member card is returned to your play area and stays face up. 
+	  Turn your Explorer sideways to represent this once per Explore phase use.
+	Bush Pilot - 1 opportunity: move to another location's #1 spot. Will have 2 remaining opportunity once their new location board is selected to resolve, play continues to the next research team member card on this location. (even if the location has already been explored this turn)
+	Thief - 2 opportunity: select a player on your location that has found evidence, that player shuffles their discovered evidence cards facedown and you take one at random.
+	Industrious - they have four opportunities
+	Scavenger - 2 opportunity: look through the location's lost evidence pile and place it on this research team member as found evidence.
+	Recon - 1 opportunity: look at the top three cards of a location pile and put them back in the same order. Use this only before any research team members are placed during the planning phase
+	Intuition - 2 opportunity: look at the top two cards and place one on this research team member and shuffle the other one into the evidence deck.
+	Research Expert - Stay home: improve a previously discovered evidence and recieve a plus 2 points card 
+	
 How to Play
 
+Trading/Negotiating
  
+End of Game Scoring
 
-End of Game
-  Lay Claim
+  Laying Claim
+In order to Lay Claim you must have a certain amount of evidence in a certain amount of the categories;
+Three evidence in Four Categories
+Four evidence in Three Categories
+Six evidence in Two Categories
+All Five Golden Evidence [Auto-win]
