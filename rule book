@@ -45,7 +45,7 @@ If any player reveals an evidence card with a large bigfoot symbol this represen
 Once all research team members have used all of their opportunities at the loaction, if your research team member is still alive then return your research team member card and any evidence they discovered to your play area.
 Once all location boards with research team members on them have been resolved move on to the next phase.
 
-Lay Claim- Players may Lay Claim if they have enough evidence to do so, if someone does there is one more full round for all other players (see the Laying Claim section for more information)
+Lay Claim- Players may Lay Claim if they have enough evidence to do so, if someone does there is one more full round for all other players. The claiming player takes the four point bonus for claiming card and all of their research team members stay home this round. (see the Laying Claim section for more information)
 If no players Lay Claim then repeat the game phases starting with the planning phase, starting with the next player clockwise from this round's starting player.
 
 Card Types
@@ -65,9 +65,9 @@ Evidence
 
 Traits
   Traits are either enacted by staying home and meeting a scenario or cost a certain amount of opportunity to use. Each research team member is allotted three opportunities per Explore Phase.
-	Survivor - Passive: does not go MIA when a bigfoot evidence card or two bigfoot tags are revealed, instead lose all but one evidence discovered and gain an eyewitness evidence card.
-	Search and Rescue - Stay Home: if another of your research team members would go MIA instead their evidence goes to that location's lost evidence pile and that research team member card is returned to your play area and stays face up. 
-	  Turn your Explorer sideways to represent this once per Explore phase use.
+	Survivor - Passive: does not go MIA when a bigfoot evidence card or two bigfoot tags are revealed, instead lose all but one evidence discovered and gain an eyewitness evidence card
+	Search and Rescue - 2 opportunity: if another of your research team members would go MIA, instead their evidence goes to that location's lost evidence pile and that research team member card is returned to your play area and stays face up. 
+	  This can only be activated if your Explorer is still out at a location
 	Bush Pilot - 1 opportunity: move to another location's #1 spot. Will have 2 remaining opportunity once their new location board is selected to resolve, play continues to the next research team member card on this location. (even if the location has already been explored this turn)
 	Thief - 2 opportunity: select a player on your location that has found evidence, that player shuffles their discovered evidence cards facedown and you take one at random.
 	Industrious - they have four opportunities
@@ -75,12 +75,17 @@ Traits
 	Recon - 1 opportunity: look at the top three cards of a location pile and put them back in the same order. Use this only before any research team members are placed during the planning phase
 	Intuition - 2 opportunity: look at the top two cards and place one on this research team member and shuffle the other one into the evidence deck.
 	Research Expert - Stay home: improve a previously discovered evidence and recieve a plus 2 points card 
-	
-How to Play
 
 Trading/Negotiating
- 
+  Players are allowed to trade and negotiate using evidence cards that they have in their play area (not explored on a location) to get other evidence cards or to convince other players to stop exploring to avoid a TPK.
+  Trades can be made at any time between players and evidence from trades go immediately to the player areas.
+  Once an agreement has been made between two parties the agreement must be respected and upheld.
+  
 End of Game Scoring
+After all players have had another round to explore locations and collect evidence after the initial claim has been made the game ends and end of game scoring begins.
+Each player creates a group of evidence cards of their most completed categories, or claim amounts (listed below). 
+Then players add up all the points on the evidence cards in the created group, add their explorer's points from their fields of study and subtracts 1 for each research team member MIA (facedown) to find their total score.
+If there is a tie then if the player with the lay claim card is tied they win, otherwise the player with the least research team members MIA wins.
 
   Laying Claim
 In order to Lay Claim you must have a certain amount of evidence in a certain amount of the categories;
